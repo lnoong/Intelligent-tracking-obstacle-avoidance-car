@@ -1,4 +1,4 @@
-# Intelligent-tracking-obstacle-avoidance-car
+#基于stm32的智能循迹避障小车 Intelligent-tracking-obstacle-avoidance-car
 Intelligent tracking obstacle avoidance car based on stm32-f103rct6
 /*
 该项目是一款智能循迹避障小车，可用于做毕设以及结课设计
